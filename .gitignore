@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# 실행 기록 (손 동작 CSV, Milly SDK 로그)
+teleop_logs/
+logs/
